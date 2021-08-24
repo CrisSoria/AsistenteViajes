@@ -1,8 +1,8 @@
-Travel advisor app
+
 
 ### [Live Site](https://asistente-viajes.netlify.app)
 
-# AsistenteViajes
+# Travel advisor app
 
 <img src="https://i.ibb.co/rspTv93/travel-Adv-min.png" align="right" alt="img" width="50%" height="auto" border="0">
 
