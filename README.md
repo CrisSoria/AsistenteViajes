@@ -9,7 +9,7 @@ Travel advisor app
 Aplicación de asistencia turística que mediante geolocalizacíon
 enlista restaurantes, hoteles, atracciones... Permitiendo filtrarlos, visitar sus sitios web, ver premios, reseñas y m{as}
 
-de chat completamenta con login (Google o Facebook) usando Firebase, online status, envío de imágenes, sonidos de notificación, posibilidad de crear múltiples salas, y más... <br/>
+<br/>
 
 ### TECNOLOGIAS:
 
